@@ -1,0 +1,1 @@
+# gdg-inu-seminar

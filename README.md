@@ -76,8 +76,7 @@ GDG 인천대학교에서는 다음과 같은 두 가지 유형의 세미나를 
 │   │   │   └── another-topic/    # 같은 달에 진행된 다른 세미나/발표
 │
 ├── templates/              # 발표자를 위한 템플릿
-│   ├── README_REGULAR.md   # 정기 세미나 README 템플릿
-│   └── README_MONTHLY.md   # 월간 세미나 README 템플릿
+│   └── README.md           # 세미나 README 템플릿
 │
 └── resources/              # 공통 리소스
     ├── images/             # 이미지 파일
@@ -108,8 +107,7 @@ GDG 인천대학교에서 세미나나 발표를 진행하신 후 자료를 공�
 - 사전 요구사항 (필요한 경우)
 - 참고 자료 및 링크
 
-
-templates/README-[REGULAR, MONTHLY].md를 참고하여 작성해주세요.
+templates/README.md를 참고하여 작성해주세요.
 
 
 ## 커뮤니티 가이드라인

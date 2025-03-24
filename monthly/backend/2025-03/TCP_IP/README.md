@@ -45,7 +45,7 @@
 
 ## 세미나 자료
 
-- [발표 슬라이드](./slides/)
+- [발표 슬라이드](https://github.com/youjinn121/gdg-inu-seminar/blob/main/monthly/backend/2025-03/TCP_IP/TCP_IP.pdf)
 - [예제 코드](./code/)
 
 ## 참고 자료

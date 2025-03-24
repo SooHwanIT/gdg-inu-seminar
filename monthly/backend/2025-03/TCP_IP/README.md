@@ -14,30 +14,29 @@
 
 ## 주요 내용
 
-1. ** TCP/IP 개요 (2분)**
+1. **TCP/IP 개요 (2분)**
    - TCP/IP 개념 및 역할
    - OSI 7계층과 TCP/IP 4계층 비교
 
-2. ** IP와 TCP (8분)**
-
+2. **IP와 TCP (8분)**
    
-   *** IP ***
+     **IP**
    - IP 주소 체계 (IPv4 vs IPv6)
    - 공인 IP vs 사설 IP, NAT
    - IP 관련 기술, DNS
   
-   *** TCP ***
+    **TCP**
    - TCP와 UDP의 차이
    - TCP 소켓 프로그래밍 코드
    
      : TCP 에코 서버 프로그램
 
-3. ** TCP/IP 기반 서버 통신 (2분)**
+3. **TCP/IP 기반 서버 통신 (2분)**
    - Web Server와 TCP/IP 통신 과정
    
      : HTTP의 연결 요청
 
-4. ** 참고 문헌 **
+4. **참고 문헌**
 
    
 ## 사전 준비사항

@@ -19,6 +19,8 @@
    - OSI 7계층과 TCP/IP 4계층 비교
 
 2. ** IP와 TCP (8분)**
+
+   
    *** IP ***
    - IP 주소 체계 (IPv4 vs IPv6)
    - 공인 IP vs 사설 IP, NAT

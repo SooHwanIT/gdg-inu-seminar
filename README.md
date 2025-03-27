@@ -31,6 +31,9 @@ GDG 인천대학교에서는 다음과 같은 두 가지 유형의 세미나를 
 |------|------|--------|-----------|
 | 2025.03.26 | Large-Scale System Design | 김기수 | [링크](/monthly/backend/2025-03/Large-Scale-System-Design) |
 | 2025.03.26 | Database Transaction | 홍은진 | [링크](/monthly/backend/2025-03/Database_transation) |
+| 2025.03.26 | 3-tier architecture | 천평근 | [링크](/monthly/backend/2025-03/3-tier-architecture) |
+| 2025.03.26 | TCP/IP | 전유진 | [링크](/monthly/backend/2025-03/TCP_IP) |
+| 2025.03.26 | 단위 테스트 | 이제용 | [링크](/monthly/backend/2025-03/unitTest) |
 | 예정됨 | 세미나/발표 제목 | [발표자 이름] | [링크](/monthly/backend/경로/) |
 
 ### 월간 세미나: AI

@@ -23,6 +23,7 @@ GDG 인천대학교에서는 다음과 같은 두 가지 유형의 세미나를 
 | 날짜 | 제목 | 발표자 | 자료 링크 |
 |------|------|--------|-----------|
 | 2025.03.12 | Docker 입문: 컨테이너 기술과 활용 방법 | 장철희 | [링크](/regular/2025-03/docker/) |
+| 2025.04.9 | Web-And-React | 최수환 | [링크](/regular/2025-04/Web-And-React/) |
 | 예정됨 | 세미나/발표 제목 | [발표자 이름] | [링크](/regular/경로/) |
 
 ### 월간 세미나: 백엔드
@@ -44,7 +45,10 @@ GDG 인천대학교에서는 다음과 같은 두 가지 유형의 세미나를 
 | 2025.03.19 | A-LLMRec | 지원근 | [링크](monthly/ai/2025-03/A-LLMRec) |
 | 2025.03.19 | POMO     | 박희선 | [링크](monthly/ai/2025-03/POMO) |
 | 2025.03.19 | YOLO_v10 | 옥정빈 | [링크](monthly/ai/2025-03/YOLO_v10) |
-| 2025.04.02 |  Chain-of-Thought(CoT) | 양승빈 | [링크](monthly/ai/2025-04/CoT) |
+| 2025.04.02 |  Chain-of-Thought(CoT) | Team 정환길 | [링크](monthly/ai/2025-04/CoT) |
+| 2025.04.02 |  RecommenderSystems | Team 지원근 | [링크](monthly/ai/2025-04/RecommenderSystems) |
+| 2025.04.02 |  Transformer | Team 박희선 | [링크](monthly/ai/2025-04/Transformer) |
+| 2025.04.02 |  FixMatch | 홍승혁 | [링크](monthly/ai/2025-04/FixMatch) |
 | 예정됨 | 세미나/발표 제목 | [발표자 이름] | [링크](/monthly/ai/경로/) |
 
 ## 디렉토리 구조
